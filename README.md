@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/muhammadali0260/DevopsTest/_apis/build/status/nasirdec.pipelines-java?branchName=main)](https://dev.azure.com/muhammadali0260/DevopsTest/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
